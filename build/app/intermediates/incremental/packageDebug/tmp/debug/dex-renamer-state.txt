@@ -1,0 +1,4 @@
+#Tue Jan 09 01:37:45 NOVT 2024
+base.0=C\:\\Users\\123\\Desktop\\New Flutter\\weatherapp_starter_project\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
